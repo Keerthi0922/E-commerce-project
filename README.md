@@ -6,13 +6,13 @@ This project is a fully functional E-Commerce Application built using the Django
 🔑**Key Features**  
 
 User Authentication (Signup, Login, Logout) <br>
-Product Catalog (View products, Search, Categories)
-Shopping Cart & Checkout
-Order Management (Track orders, Order history)
-Admin Panel (Manage products, users, and orders)
-MySQL Database Integration
+Product Catalog (View products, Search, Categories)<br>
+Shopping Cart & Checkout<br>
+Order Management (Track orders, Order history)<br>
+Admin Panel (Manage products, users, and orders)<br>
+MySQL Database Integration<br>
 
 🛠️**Tech Stack**  
 
-Backend: Python (Django Framework)
+Backend: Python (Django Framework)<br>
 Frontend: HTML, CSS, JavaScript
