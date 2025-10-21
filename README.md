@@ -1,9 +1,9 @@
 # **Ecommerce-Application-using-djangio-and-Python**
-📌### **Project Overview**
+📌 **Project Overview**
 
 This project is a fully functional E-Commerce Application built using the Django Framework, HTML, and MySQL. The application includes essential e-commerce features such as user authentication, product catalog management, and order processing.
 
-🔑###Key Features###
+🔑**Key Features**
 
 User Authentication (Signup, Login, Logout) <br>
 
@@ -17,7 +17,7 @@ Admin Panel (Manage products, users, and orders)<br>
 
 MySQL Database Integration<br>
 
-🛠️###Tech Stack### 
+🛠️**Tech Stack**
 
 Backend: Python (Django Framework)<br>
 
