@@ -5,7 +5,7 @@ This project is a fully functional E-Commerce Application built using the Django
 
 🔑**Key Features**  
 
-User Authentication (Signup, Login, Logout)
+User Authentication (Signup, Login, Logout) <br>
 Product Catalog (View products, Search, Categories)
 Shopping Cart & Checkout
 Order Management (Track orders, Order history)
