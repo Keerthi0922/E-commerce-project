@@ -17,7 +17,7 @@ Admin Panel (Manage products, users, and orders)<br>
 
 MySQL Database Integration<br>
 
-🛠️**Tech Stack**
+<u>🛠️**Tech Stack**</u>
 
 Backend: Python (Django Framework)<br>
 
